@@ -23,7 +23,8 @@ public class Assignment1 {
 		System.out.println("Git data1");
 		System.out.println("Git data2");
 		System.out.println("Git data3");
-		
+		System.out.println("Git data4");
+		System.out.println("Git data5");
 	}
 
 }
