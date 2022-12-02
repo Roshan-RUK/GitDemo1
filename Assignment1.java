@@ -21,6 +21,8 @@ public class Assignment1 {
 		//Count the number of check boxes
 		System.out.println(driver.findElements(By.cssSelector("input[type='checkbox']")).size());
 		System.out.println("Git data1");
+		System.out.println("Git data2");
+		System.out.println("Git data3");
 		
 	}
 

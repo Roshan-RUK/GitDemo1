@@ -29,7 +29,7 @@ public class AssignmentPractice2 {
 		driver.findElement(By.cssSelector("input[class='btn btn-success']")).click();
 		Thread.sleep(2000);
 		System.out.println(driver.findElement(By.cssSelector("div[class='alert alert-success alert-dismissible']")).getText());
-		
+		System.out.println("New Branch");
 		
 	}
 
